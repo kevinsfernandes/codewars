@@ -21,4 +21,4 @@ function repeatStr (n, s) {
     return s.repeat(n);
   }
 
-// optionally as one line:  repeatStr = (n, s) => s.repeat(n)
+// optionally as one line:  const repeatStr = (n, s) => s.repeat(n)
