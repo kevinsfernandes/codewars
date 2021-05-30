@@ -13,4 +13,5 @@ function solution(str, ending){
   return str.substr(-ending.length) == ending;
 }
 */
+// I suspect the following solution wasn't possible when the original kata was made.
 const solution = (str, ending) => str.endsWith(ending);
