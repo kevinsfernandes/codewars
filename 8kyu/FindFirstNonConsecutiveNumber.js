@@ -39,3 +39,4 @@ function firstNonConsecutive (arr) {
 
     return (Number.isInteger(result)) ? result : null;
 }
+*/
