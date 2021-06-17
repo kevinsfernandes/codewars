@@ -8,3 +8,6 @@ FUNDAMENTALS
 const quarterOf = (month) => {
  return Math.ceil (month / 3);
 }
+
+// 1 line solution:
+// const quarterOf = m => Math.ceil(m/3);
